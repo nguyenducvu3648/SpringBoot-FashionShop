@@ -166,6 +166,14 @@
 			<version>2.2.4</version>
 		</dependency>
 
+		<!--paypal-->
+		<dependency>
+			<groupId>com.paypal.sdk</groupId>
+			<artifactId>rest-api-sdk</artifactId>
+			<version>1.14.0</version>
+		</dependency>
+
+
 	</dependencies>
 
 	<!--quan ly cac container-->

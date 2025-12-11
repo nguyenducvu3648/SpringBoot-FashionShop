@@ -28,3 +28,9 @@ jwt:
   signerKey: "5fOoIajDcW1ND6jNe1iW6TbPCmWy9jge7KO+OzLhmpNcUvngDfwOZXx6lGq3ZKTq "
   valid-duration: 3600 #second
   refreshable-duration: 120 #seconds
+
+paypal:
+  client:
+    id: "Ad9tIIFTvO_gg5N23jeBKI6KzYRNoPiJ0J_woAJvgbmfoU7vJLGVQDd8vjf-fKmiu5IBtC9PIozibRTR"
+    secret: "ECu8UmcXJyFeyk3PUWfBPoVbw2Kt1sPyyAOcjJ8krg3UjsI814gidzhEuKioEWGNJ6jO6IhKL75nagPj"
+  mode: sandbox

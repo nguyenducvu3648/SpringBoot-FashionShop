@@ -38,6 +38,8 @@ public class Payment {
 
     LocalDateTime createdAt;
 
+    LocalDateTime paidAt;
+
     @PrePersist
     protected void onCreate() {
         this.createdAt = LocalDateTime.now();
